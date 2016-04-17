@@ -14,7 +14,7 @@ def sort_vectors(vector1, vector2):
 
 def multiply_vectors(n, vector):
     """
-    returns
+    returns the sum of two points in vector
     :param n:
     :param vector:
     :return:
